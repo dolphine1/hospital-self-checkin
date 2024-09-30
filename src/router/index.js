@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import SelfCheckIn from '@/views/SelfCheckIn.vue'
+import SelfCheckIn from '@/SelfCheckIn.vue'
 
 const routes = [
   {
